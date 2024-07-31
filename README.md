@@ -1,6 +1,7 @@
 # beedoo
 ### links
 cenarios de testes: https://docs.google.com/document/d/1eHRaNhbwGdJSRHPXSG9-C0FljHCxiu093aHycWt9NIU/edit?usp=sharing
+
 relatorio de bugs, vulnerabilidades e avaliações : https://docs.google.com/document/d/10SEXQSl8G-iaWHVzmrxDvDCbk-mxAnThTUB9WaA9D4o/edit?usp=sharing
 
 # Requisitos para Cadastro e Visualização de Cursos
