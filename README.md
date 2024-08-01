@@ -44,6 +44,7 @@ Como um administrador da plataforma, eu quero poder cadastrar novos cursos, para
 * Número de vagas
 * Tipo de curso (presencial ou remoto)
 * Endereço
+* link - caso seja remoto
 * O formulário deve ter validação para garantir que todos os campos obrigatórios sejam preenchidos corretamente:
 * Campos obrigatórios não podem estar vazios.
 * Formatos de data e URL devem ser validados.
