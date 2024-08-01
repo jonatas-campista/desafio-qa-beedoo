@@ -100,12 +100,14 @@ Motivação:
 * Número de vagas: Campo para definir a quantidade de vagas disponíveis.
 * Tipo de curso: Campo para definir se o curso é presencial ou remoto.
 * Endereço: campo opcional para informar o endereço
+* link em caso de o tipo do curso ser remoto
   
 #### Validações:
 
 * Campos obrigatórios não podem estar vazios.
-* Formatos de data e URL devem ser validados para garantir a integridade dos dados.
+* Formatos de data e URL e link devem ser validados para garantir a integridade dos dados.
 * O número de vagas deve ser um valor positivo.
+* O formulário deve ter validação para garantir que todos os campos obrigatórios sejam preenchidos corretamente
   
 ###### Feedback do Usuário:
 * Mensagem de confirmação exibida após o cadastro para informar que o curso foi cadastrado com sucesso.
